@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="528" height="188" viewBox="0 0 528 188">
+    <defs>
+        <linearGradient id="prefix__c" x1="68.065%" x2="39.61%" y1="-36.265%" y2="105.244%">
+            <stop offset="0%" stop-color="#FFF" stop-opacity=".533"/>
+            <stop offset="100%" stop-color="#D6DCE0"/>
+        </linearGradient>
+        <linearGradient id="prefix__d" x1="89.178%" x2="40.185%" y1="-166.095%" y2="100%">
+            <stop offset="0%" stop-color="#657786"/>
+            <stop offset="100%" stop-color="#657786" stop-opacity="0"/>
+        </linearGradient>
+        <rect id="prefix__a" width="528" height="188" x="0" y="0" rx="15"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="prefix__b" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <use fill="#F6F8FA" xlink:href="#prefix__a"/>
+        <g mask="url(#prefix__b)">
+            <g>
+                <path fill="url(#prefix__c)" d="M84.12 154.615L0 421.511 55.77 421.511 139.89 154.615z" opacity=".624" transform="translate(304 -121)"/>
+                <path fill="url(#prefix__d)" d="M224.23 0L140.11 266.896 195.88 266.896 280 0z" opacity=".437" transform="translate(304 -121)"/>
+            </g>
+        </g>
+    </g>
+</svg>
