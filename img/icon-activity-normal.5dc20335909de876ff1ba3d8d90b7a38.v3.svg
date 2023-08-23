@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.00585774059 0.0278242678 69.9382008 0.0278242678 69.9382008 35.0316318 0.00585774059 35.0316318"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-2">
+            <g id="icon">
+                <polygon id="Fill-1" fill="#D1DBE5" points="4.99548117 70 32.3811994 70 32.3811994 40.027113 4.99548117 40.027113"></polygon>
+                <polygon id="Fill-2" fill="#D1DBE5" points="37.5109205 70 64.9396932 70 64.9396932 40.027113 37.5109205 40.027113"></polygon>
+                <g id="编组">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <polygon id="Fill-3" fill="#D1DBE5" mask="url(#mask-2)" points="60.8907252 15.0478522 64.9400837 10.0535425 54.2531241 0.0812273361 39.9672664 15.0478522 37.5109205 15.0478522 37.5109205 35.0316318 69.9382008 35.0316318 69.9382008 15.0478522"></polygon>
+                    <polygon id="Fill-5" fill="#D1DBE5" mask="url(#mask-2)" points="32.3811994 15.0478522 29.9732775 15.0478522 15.7041144 0.0278242678 4.99548117 10.0535425 9.05548117 15.0478522 0 15.0478522 0 35.0316318 32.3808089 35.0316318 32.3808089 15.0478522"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
